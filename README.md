@@ -4,7 +4,6 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green.svg)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red.svg)](https://matplotlib.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 📋 Table of Contents
 - [Overview](#overview)
@@ -19,8 +18,6 @@
 - [Visualizations](#visualizations)
 - [Results & Recommendations](#results--recommendations)
 - [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -349,26 +346,6 @@ Potential areas for expanding this analysis:
 6. **Network Analysis**: Analyze director-actor collaboration networks
 7. **Time Series Forecasting**: Predict future content trends
 8. **Natural Language Processing**: Extract insights from descriptions
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to improve this analysis:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-Please ensure your code follows best practices and includes appropriate documentation.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
