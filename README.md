@@ -6,19 +6,19 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red.svg)](https://matplotlib.org/)
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [Project Objectives](#project-objectives)
-- [Dataset Description](#dataset-description)
-- [Technologies Used](#technologies-used)
-- [Analysis Sections](#analysis-sections)
-- [Key Insights](#key-insights)
-- [Installation & Usage](#installation--usage)
-- [Project Structure](#project-structure)
-- [Visualizations](#visualizations)
-- [Results & Recommendations](#results--recommendations)
-- [Future Enhancements](#future-enhancements)
-- [Contact](#contact)
+- [Overview](#-overview)
+- [Problem Statement](#-problem-statement)
+- [Project Objectives](#-project-objectives)
+- [Dataset Description](#-dataset-description)
+- [Technologies Used](#️-technologies-used)
+- [Analysis Sections](#-analysis-sections)
+- [Key Insights](#-key-insights)
+- [Installation & Usage](#-installation--usage)
+- [Project Structure](#-project-structure)
+- [Visualizations](#-visualizations)
+- [Results & Recommendations](#-results--recommendations)
+- [Future Enhancements](#-future-enhancements)
+- [Contact](#-contact)
 
 ---
 
