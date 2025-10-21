@@ -239,7 +239,6 @@ pip (Python package manager)
 ### Clone the Repository
 ```bash
 git clone https://github.com/AradhyaRay05/VOIS_AICTE_Oct2025_MajorProject_AradhyaRay.git
-cd netflix-data-analysis
 ```
 
 ### Install Required Packages
@@ -266,11 +265,6 @@ netflix-data-analysis/
 ├── Netflix Data Analysis.ipynb    # Main analysis notebook (128 cells)
 ├── Netflix_Dataset.csv             # Dataset file
 ├── README.md                       # Project documentation
-│
-└── visualizations/                 # (Optional) Exported charts
-    ├── content_distribution.png
-    ├── geographical_trends.png
-    └── ...
 ```
 
 ---
