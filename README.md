@@ -382,28 +382,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 🙏 Acknowledgments
-
-- **Netflix** for providing publicly available dataset information
-- **Kaggle** community for dataset hosting and data science resources
-- **Matplotlib** and **Seaborn** teams for excellent visualization libraries
-- Open-source community for continuous support
-
----
-
-## 📊 Project Statistics
-
-- **Total Cells**: 128 (Code + Markdown)
-- **Code Cells**: 108
-- **Visualizations**: 75+
-- **Analysis Sections**: 17
-- **Lines of Code**: 2,300+
-- **Professional Findings**: 20+ markdown insights
-- **Time Period Analyzed**: 2008-2021 (13 years)
-- **Total Titles Analyzed**: 8,807
-
----
-
 ## 🌟 Star This Repository
 
 If you found this analysis helpful or interesting, please consider giving it a ⭐!
