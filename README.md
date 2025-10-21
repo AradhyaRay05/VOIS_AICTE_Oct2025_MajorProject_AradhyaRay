@@ -238,7 +238,7 @@ pip (Python package manager)
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/netflix-data-analysis.git
+git clone https://github.com/AradhyaRay05/VOIS_AICTE_Oct2025_MajorProject_AradhyaRay.git
 cd netflix-data-analysis
 ```
 
